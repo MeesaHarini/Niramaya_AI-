@@ -1,0 +1,105 @@
+name,gi,type,season,fact
+Brown Rice,Low,Grain,Year-round,High fiber; retains the bran layer for slow digestion.
+Black Rice (Kavuni),Low,Grain,Year-round,Rich in Anthocyanins; powerful local antioxidant.
+Red Rice (Patni/Matta),Low,Grain,Year-round,High in Zinc and Iron; lower GI than white rice.
+Hand-pounded Rice,Low,Grain,Year-round,Traditional processing; preserves natural minerals.
+Basmati Rice (Steamed),Low,Grain,Year-round,Lower GI than short-grain rice if not overcooked.
+Bamboo Rice (Moongil Arisi),Low,Grain,Monsoon,Collected from dried bamboo; very low GI.
+Little Millet (Samalu),Low,Grain,Year-round,Rich in Magnesium; excellent for heart health.
+Foxtail Millet (Korra),Low,Grain,Year-round,High in Protein and Fiber; ancient Indian staple.
+Barnyard Millet (Oodalu),Low,Grain,Monsoon,Lowest calorie grain; ideal for weight management.
+Kodo Millet (Arikelu),Low,Grain,Year-round,High antioxidant content; helps in blood purification.
+Browntop Millet (Andu Korra),Low,Grain,Year-round,Richest source of fiber (12.5%) among millets.
+Proso Millet (Variga),Low,Grain,Summer,High in Lecithin; supports the nervous system.
+Pearl Millet (Bajra),Low,Grain,Winter,Provides internal warmth; drought-resistant crop.
+Finger Millet (Ragi),Low,Grain,Year-round,Richest source of Calcium; sustainable ancient grain.
+Sorghum (Jowar),Low,Grain,Year-round,Gluten-free; requires 60% less water than rice.
+Amaranth (Rajgira),Low,Grain,Year-round,Pseudo-millet; complete protein with all amino acids.
+Buckwheat (Kuttu),Low,Grain,Winter,Improves blood flow; local to Himalayan regions.
+Flattened Rice (Brown Poha),Low,Grain,Year-round,Minimal processing; easy to digest breakfast.
+Steel Cut Oats,Low,Grain,Year-round,High Beta-glucan fiber; slows glucose absorption.
+Missi Roti (Besan-Wheat),Low,Grain,Year-round,High protein; gram flour lowers the overall GI.
+Bajra Roti (Pearl Millet),Low,Grain,Winter,Traditional Rajasthani staple; high in fiber.
+Jowar Bhakri (Sorghum),Low,Grain,Year-round,Hand-pressed flatbread; gluten-free and easy on gut.
+Multi-grain Chapati,Low,Grain,Year-round,Mix of oats; ragi; and wheat for slower sugar release.
+Methi Thepla,Low,Grain,Winter,Fenugreek leaves improve insulin response in this staple.
+Moong Dal Idli,Low,Grain,Year-round,Lentil-based; much lower GI than rice-only idli.
+Vegetable Upma (Millet),Low,Grain,Year-round,Use Foxtail or Little millet for a low-GI breakfast.
+Toor Dal (Arhar),Low,Protein,Year-round,Most common Indian pulse; high folic acid.
+Chana Dal (Bengal Gram),Low,Protein,Year-round,Lowest GI of all pulses; stabilizes sugar.
+Urad Dal (White/Split),Low,Protein,Year-round,Essential for Dosa/Idli; high in fiber.
+Moong Dal (Yellow Split),Low,Protein,Year-round,Easiest to digest; perfect for recovery meals.
+Masoor Dal (Red Split),Low,Protein,Year-round,Fastest cooking; low carbon footprint.
+Kala Chana (Black Chickpeas),Low,Protein,Year-round,High iron; lower GI than white chickpeas.
+Rajma (Kidney Beans),Low,Protein,Year-round,High fiber; pair with millets for low GI.
+Horse Gram (Kollu),Low,Protein,Winter,Hardiest legume; high in protein.
+Paneer (Low Fat),Low,Protein,Year-round,Essential calcium source; keeps you full longer.
+Tofu (Soya Paneer),Low,Protein,Year-round,Zero cholesterol; very low glycemic load.
+Peanut Chutney (Palli),Low,Protein,Year-round,Healthy fats and protein; local tiffin side.
+Flaxseed Podi (Alsi),Low,Protein,Year-round,Omega-3 rich powder; mix with idlis for healthy fats.
+Soya Chunks (Mealmaker),Low,Protein,Year-round,Highest protein per gram; sustainable meat sub.
+Bitter Gourd (Karela),Low,Veg,Summer,The Gold Standard for sugar management.
+Drumstick Leaves (Munaga),Low,Veg,Year-round,Multivitamin of nature; zero miles.
+Gongura (Sorrel),Low,Veg,Monsoon,High iron; local to South India.
+Ivy Gourd (Dondakaya),Low,Veg,Monsoon,Improves glucose metabolism.
+Ladies Finger (Bhindi),Low,Veg,Summer,Mucilage slows down sugar absorption.
+Ash Gourd (Winter Melon),Low,Veg,Year-round,Alkaline; heals the gut lining.
+Sambar (Veg Rich),Low,Veg,Year-round,Lentil-based stew; high in fiber and protein.
+Coconut Chutney (Fresh),Low,Veg,Year-round,MCT fats provide energy without sugar spikes.
+Pudina Chutney (Mint),Low,Veg,Summer,Zero-calorie side; aids digestion and cools.
+Ginger Chutney (Allam),Low,Veg,Monsoon,High gingerol; boosts immunity and metabolism.
+Tomato (Tamatar),Low,Veg,Year-round,Rich in Lycopene; improves heart health.
+Onion (Pyaz),Low,Veg,Year-round,Contains Quercetin; natural anti-inflammatory.
+Green Peas (Matar),Low,Veg,Winter,High fiber; use fresh in winter for best GI.
+French Beans,Low,Veg,Year-round,Low calorie; great for filling up a meal.
+Cauliflower (Gobi),Low,Veg,Winter,Low carb; can be riced as a grain substitute.
+Cabbage (Patta Gobi),Low,Veg,Winter,High in Vitamin K and sulforaphane.
+Capsicum (Simla Mirch),Low,Veg,Year-round,High Vitamin C; boosts metabolic rate.
+Carrot (Local/Desi),Low,Veg,Winter,High fiber; eat raw for lower GI.
+Radish (Mooli),Low,Veg,Winter,Natural diuretic; cleanses the liver.
+Beetroot (Chukandar),Low,Veg,Winter,Nitrates improve blood flow; eat in moderation.
+Fenugreek Seeds (Methi),Low,Spice,Year-round,Proven to slow sugar absorption.
+Cinnamon (Dalchini),Low,Spice,Year-round,Mimics insulin; lowers blood sugar.
+Curry Leaf Podi,Low,Spice,Year-round,High antioxidant mix; helps manage sugar.
+Garlic Podi (Vellulli),Low,Spice,Year-round,Allicin-rich; helps manage blood pressure.
+Turmeric (Haldi),Low,Spice,Year-round,Curcumin is a powerful antioxidant.
+Cumin (Jeera),Low,Spice,Year-round,Improves secretion of digestive enzymes.
+Mustard Seeds (Avalu),Low,Spice,Year-round,Contains Selenium; anti-inflammatory.
+Black Pepper (Miriyalu),Low,Spice,Year-round,Increases absorption of Turmeric.
+Karela-Amla Juice,Low,Juice,Summer,Potent medical drink for diabetics.
+Buttermilk (Chaas),Low,Juice,Summer,Hydrating probiotic; zero fat.
+Ragi Malt (No Sugar),Low,Juice,Year-round,Sustainable calcium-rich energy drink.
+Coconut Water,Low,Juice,Summer,Nature's Gatorade; low GI electrolytes.
+Barley Water,Low,Juice,Summer,Excellent for kidney health and cooling.
+Lemon Water (Salted),Low,Juice,Year-round,Zero-calorie hydrator.
+Tomato Soup (Fresh),Low,Juice,Winter,High fiber starter; prevents overeating.
+Bottle Gourd (Lauki) Juice,Low,Juice,Summer,Alkaline and cooling for the gut.
+Tomato-Celery Juice,Low,Juice,Winter,Rich in lycopene; very low glycemic load.
+Aloe Vera Juice (Fresh),Low,Juice,Year-round,Helps improve fasting blood glucose.
+Spinach-Green Apple Smoothie,Low,Juice,Winter,High chlorophyll and fiber Green Juice.
+Makhana (Roasted),Low,Snack,Year-round,Sustainable aquatic seed; low GI.
+Walnuts (Akhrot),Low,Snack,Winter,Heart-healthy fats; brain food.
+Almonds (Soaked),Low,Snack,Year-round,Prevents sugar spikes if eaten before meals.
+Pumpkin Seeds,Low,Snack,Year-round,High in Magnesium; improves sleep.
+Sunflower Seeds,Low,Snack,Year-round,Rich in Vitamin E.
+Flaxseeds (Alsi),Low,Snack,Year-round,Omega-3 rich; ground for best absorption.
+Sprouted Moong,Low,Snack,Year-round,Living food; high enzyme content.
+Roasted Chana (Murmura),Low,Snack,Year-round,High protein; zero oil; local staple.
+Sprouted Moong Salad,Low,Snack,Year-round,Bio-available nutrients; zero processing.
+Masala Peanuts (Boiled),Low,Snack,Year-round,Healthy fats; local almond alternative.
+Steamed Sprouts,Low,Snack,Year-round,High enzyme activity; very low GI.
+Guava (Amrud),Low,Fruit,Winter,High fiber; skin prevents sugar spikes.
+Papaya (Raw),Low,Fruit,Year-round,Aids digestion; lower GI than ripe papaya.
+Amla (Gooseberry),Low,Fruit,Winter,Indian superfood; massive Vitamin C.
+Jamun (Blackberry),Low,Fruit,Summer,Seeds help treat diabetic symptoms.
+Pomegranate (Anar),Low,Fruit,Year-round,Anti-inflammatory; heart protector.
+Apple (Shimla),Low,Fruit,Winter,Pectin fiber slows sugar release.
+Pear (Nashpati),Low,Fruit,Monsoon,High water; low glycemic load.
+Muskmelon (Kharbuja),Low,Fruit,Summer,Refreshing and low calorie.
+Custard Apple (Seethaphal),Low,Fruit,Winter,Rich in Magnesium; eat in moderation.
+Wood Apple (Bael),Low,Fruit,Summer,Excellent for summer digestion.
+Ber (Jujube),Low,Fruit,Winter,Local fruit; high fiber and Vitamin C.
+Coconut (Raw/Fresh),Low,Fruit,Year-round,Healthy fats; very low GI.
+Phalsa,Low,Fruit,Summer,Small berry; huge antioxidant power.
+Star Fruit (Kamrakh),Low,Fruit,Winter,Naturally tangy and low sugar.
+
